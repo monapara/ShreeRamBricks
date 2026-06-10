@@ -104,7 +104,7 @@ function exportTableToPDF() {
       doc.setFont("helvetica", "bold");
       doc.setFontSize(18);
       doc.setTextColor(ink[0], ink[1], ink[2]);
-      doc.text("Shiv Bricks", pw / 2, 15.5, { align: "center" });
+      doc.text("Shree Ram Fly Ash Bricks", pw / 2, 15.5, { align: "center" });
 
       // Document date (top-right)
       doc.setFont("helvetica", "normal");
