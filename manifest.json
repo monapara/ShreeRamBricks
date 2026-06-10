@@ -1,0 +1,22 @@
+{
+  "name": "Shiv Bricks",
+  "short_name": "ShivBricks",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#a2542f",
+  "orientation": "portrait",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "mahadev.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "mahadev.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
